@@ -169,14 +169,19 @@
   background-color: var(--accent-color);
 }
 /*portfolio-list*/
+.projects-link {
+  text-decoration: none;
+}
 .portfolio-list .title {
   letter-spacing: 0.06em;
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
+  text-decoration: none;
 }
 .portfolio-list .text {
   font-size: 16px;
   line-height: 1.88;
   color: var(--primaty-text-color);
+  text-decoration: none;
 }
