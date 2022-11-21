@@ -101,10 +101,9 @@
 .workers .team-list {
   text-align: center;
   line-height: 1.18;
-}
-.workers-team .team-list {
   background-color: var(--second-color);
 }
+
 .feature-list .title {
   color: var(--title-text-color);
   line-height: 1.14;
